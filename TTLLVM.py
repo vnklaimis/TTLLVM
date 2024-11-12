@@ -46,6 +46,8 @@ def main():
     setup_keyboard_controls()
     
     start_time = viz.tick()  # Record the start time
+    
+    viz.mouse.setVisible(False)
 
     spawn_gnomes(NUM_GNOMES)
 
