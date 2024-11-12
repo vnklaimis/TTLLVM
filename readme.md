@@ -1,7 +1,3 @@
-Here's a README file for your gnome collection game:
-
----
-
 # Gnome Collection Game
 
 This is a 3D game developed in Vizard where players control a wizard character to explore a virtual world, collect hidden gnomes, and complete the quest as fast as possible. The game is implemented with camera control, boundary limitations, collision detection, and a real-time counter of collected gnomes.
@@ -66,7 +62,3 @@ This is a 3D game developed in Vizard where players control a wizard character t
 - Additional levels with more complex gnome placements.
 - Power-ups or time bonuses for completing tasks faster.
 - Enhanced graphics, sound effects, and animations.
-
----
-
-This README provides the essential details to help users understand, set up, and play the game, along with possible future enhancements for added functionality.
